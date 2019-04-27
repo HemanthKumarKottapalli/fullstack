@@ -1,10 +1,6 @@
 class AdditionVarArgMethod 
 {
-	public  void sum()
-	{
-	sum(a);
-	sum(a,b);
-	}
+
 	public static void main(String[] args) 
 	{
 		int a=Integer.parseInt(args[0]);
