@@ -3,7 +3,8 @@ class AdditionVarArgMethod
 	public  void sum()
 	{
 	sum(a);
-	sum(a,b);
+	
+
 	}
 	public static void main(String[] args) 
 	{
